@@ -1,0 +1,113 @@
+﻿{
+    "student_id": "12349",
+    "session_id": "f77354b7-f488-473d-90a9-7087c93eb722",
+    "quiz_history": [
+        {
+            "quiz_name": "Mathematics",
+            "score": 4,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 1,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 4,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 1,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 2,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 0,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 1,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 0,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Personalized Practice",
+            "score": 4,
+            "total": 6,
+            "topic_results": {
+                "Multiplication": {
+                    "score": 2,
+                    "total": 3
+                },
+                "Division": {
+                    "score": 2,
+                    "total": 3
+                }
+            }
+        }
+    ]
+}

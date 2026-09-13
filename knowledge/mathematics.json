@@ -1,0 +1,9 @@
+﻿{
+    "addition": "Addition is the process of combining two or more numbers. For example, 2 + 3 = 5.",
+    "subtraction": "Subtraction is the process of taking one number away from another. For example, 5 - 2 = 3.",
+    "multiplication": "Multiplication is repeated addition. For example, 3 × 4 means 3 + 3 + 3 + 3 = 12.",
+    "division": "Division means splitting a number into equal parts. For example, 12 ÷ 3 = 4.",
+    "variable": "A variable is a letter or symbol that represents an unknown value. For example, x can represent a number.",
+    "fraction": "A fraction represents a part of a whole. For example, 1/2 means one out of two equal parts.",
+    "equation": "An equation is a mathematical statement showing that two expressions are equal. For example, x + 2 = 5."
+}

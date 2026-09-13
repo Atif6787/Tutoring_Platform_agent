@@ -1,0 +1,96 @@
+﻿{
+    "student_id": "12345",
+    "session_id": "82a93ba1-e112-49c3-aab3-34f1cf946f3d",
+    "quiz_history": [
+        {
+            "quiz_name": "Science",
+            "score": 5,
+            "total": 5
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 3,
+            "total": 3
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 1,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 0,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Adaptive Personalized Practice",
+            "score": 5,
+            "total": 9,
+            "topic_results": {
+                "Subtraction": {
+                    "score": 3,
+                    "total": 3
+                },
+                "Multiplication": {
+                    "score": 1,
+                    "total": 3
+                },
+                "Division": {
+                    "score": 1,
+                    "total": 3
+                }
+            }
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 2,
+            "total": 4,
+            "topic_results": {
+                "Addition": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Subtraction": {
+                    "score": 1,
+                    "total": 1
+                },
+                "Multiplication": {
+                    "score": 0,
+                    "total": 1
+                },
+                "Division": {
+                    "score": 1,
+                    "total": 1
+                }
+            }
+        },
+        {
+            "quiz_name": "Adaptive Personalized Practice",
+            "score": 4,
+            "total": 6,
+            "topic_results": {
+                "Multiplication": {
+                    "score": 2,
+                    "total": 3
+                },
+                "Addition": {
+                    "score": 2,
+                    "total": 3
+                }
+            }
+        }
+    ]
+}

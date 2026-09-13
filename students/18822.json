@@ -1,0 +1,21 @@
+﻿{
+    "student_id": "18822",
+    "session_id": "9feb2d4f-96a1-435d-bdd9-2bc88faba306",
+    "quiz_history": [
+        {
+            "quiz_name": "maths",
+            "score": 8,
+            "total": 10
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 5,
+            "total": 5
+        },
+        {
+            "quiz_name": "Mathematics",
+            "score": 5,
+            "total": 5
+        }
+    ]
+}
